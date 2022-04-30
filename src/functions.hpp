@@ -9,6 +9,8 @@ void move_velocity(int forwardPower, int turnPower);
 void move(int forwardPower, int turnPower);
 void brake();
 void moveLR(int leftPower, int rightPower);
+void liftTask(void*);
+void intakeTask(void*);
+void clampTask(void*);
 
 #endif
-//

@@ -10,11 +10,11 @@ Motor LB(9, MOTOR_GEARSET_6, true);
 Motor LT(10, MOTOR_GEARSET_6);
 
 Motor RF(5, MOTOR_GEARSET_6, true);
-Motor RB(3, MOTOR_GEARSET_6);//
+Motor RB(3, MOTOR_GEARSET_6);
 Motor RT(1, MOTOR_GEARSET_6, true);
 
 Motor lift(21, MOTOR_GEARSET_18, true);
-Motor conveyor(20, MOTOR_GEARSET_6, true);
+Motor conveyor(7, MOTOR_GEARSET_6, true);
 
 
 // ADIPotentiometer clampPos('A');
